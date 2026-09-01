@@ -307,6 +307,8 @@ WHERE UPPER(e.email) = UPPER(:APP_USER);
 21. Run the page. 
     ![Shared Components](images/save-and-run2.png ' ')
 
+22. Login as user **ravi.menon@acme.example**. In the search bar, type **IT** and observe the results.
+    ![Search result](images/ess-search-result.png ' ')
 
 
 ## Acknowledgements

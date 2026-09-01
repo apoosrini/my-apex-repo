@@ -63,16 +63,7 @@ In this lab, you will:
 
     ![ESS Application Settings page listing the three created settings and values.](images/ess-app-settings3.png ' ')
 
-
-## Task 3: Reference settings in pages
-
-1. Replace a hardcoded page value with a substitution string, for example `&OFFER_EXPIRY_DAYS.`.
-
-    ![Page Designer property using the OFFER_EXPIRY_DAYS substitution string.](images/reference-application-setting.png ' ')
-
-2. Run the affected page and confirm that the setting value renders correctly.
-
-    ![TAP runtime page displaying the configured offer expiry value.](images/verify-application-setting.png ' ')
+    *Note*: You will see how to use these application settings in the upcoming workshops.
 
 
 ## Acknowledgements
